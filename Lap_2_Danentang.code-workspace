@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/android"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/assets"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/ios"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/lib"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/linux"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/macos"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/test"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/web"
+		},
+		{
+			"path": "C:/Users/DOAN TRONG TAN/Downloads/lab2_DNT-main/windows"
+		}
+	],
+	"settings": {}
+}
